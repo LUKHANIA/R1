@@ -217,7 +217,7 @@ img {
 }
 
 .home__btn{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -310,7 +310,7 @@ img {
     width: 50%;
   }
   .home__button{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -320,7 +320,7 @@ img {
   width: 15%;
   }
   .home__btn{
-  color: var(--white-color);
+  color: var(--black-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -338,7 +338,7 @@ img {
     width: 50%;
   }
   .home__button{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -348,7 +348,7 @@ img {
   width: 45%;
   }
   .home__btn{
-  color: var(--white-color);
+  color: var(--black-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -391,7 +391,7 @@ img {
   margin-bottom: 0;
 }
 .home__button{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -401,7 +401,7 @@ img {
   width: 15%;
 }
   .home__btn{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -472,6 +472,7 @@ img {
     max-height: 1000px
   }
 }
+
 
 
 

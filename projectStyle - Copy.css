@@ -217,7 +217,7 @@ img {
 }
 
 .home__btn{
-  color: var(--white-color);
+  color: var(--black-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -236,7 +236,7 @@ img {
 }
 
 .ri-arrow-right-s-line{
-  color: var(--white-color);
+  color: var(--black-color);
 }
 .home__button:hover i{
   transform: translateX(.5rem);
@@ -472,6 +472,7 @@ img {
     max-height: 1000px
   }
 }
+
 
 
 

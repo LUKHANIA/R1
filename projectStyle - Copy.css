@@ -305,7 +305,7 @@ img {
 }
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1150px){
   .nav__menu{
     width: 50%;
   }
@@ -320,7 +320,7 @@ img {
   width: 15%;
   }
   .home__btn{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -348,7 +348,7 @@ img {
   width: 45%;
   }
   .home__btn{
-  color: var(--black-color);
+  color: var(--white-color);
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -472,6 +472,7 @@ img {
     max-height: 1000px
   }
 }
+
 
 
 
